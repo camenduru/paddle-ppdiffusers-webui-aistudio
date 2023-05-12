@@ -19,10 +19,10 @@ https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010
 Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model <br />
 
 ### Installed positive LoRAs
-- \<lora:epi_noiseoffset2:1.0\> (Thansk to epinikion ❤)
+- \<lora:epi_noiseoffset2:1.0\> (Thanks to epinikion ❤)
 
 ### Installed positive embeds
-- koh_daisyridley (Thansk to SDKoh ❤)
+- koh_daisyridley (Thanks to SDKoh ❤)
 
 ### Installed negative embeds
 - bad_prompt_version2 (Thanks to Nerfgun3 ❤)
@@ -44,6 +44,6 @@ https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI/tree/main
 https://github.com/PaddlePaddle/PaddleNLP/blob/develop/ppdiffusers/examples/community/webui_stable_diffusion.py <br />
 
 ### Special Thanks
-Thansk to PaddlePaddle ppdiffusers Team ❤ <br />
-Thansk to JunnYu ❤ for the webui_stable_diffusion custom ppdiffusers pipeline <br />
-Thansk to ArtGAN ❤ for the Gradio UI <br />
+Thanks to PaddlePaddle ppdiffusers Team ❤ <br />
+Thanks to JunnYu ❤ for the webui_stable_diffusion custom ppdiffusers pipeline <br />
+Thanks to ArtGAN ❤ for the Gradio UI <br />
