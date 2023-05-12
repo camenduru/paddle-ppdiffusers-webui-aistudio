@@ -2,6 +2,15 @@
 🐤 Please follow me for new updates [https://twitter.com/camenduru](https://twitter.com/camenduru) <br />
 🔥 Please join our discord server [https://discord.gg/k5BwmmvJJU](https://discord.gg/k5BwmmvJJU) <br />
 
+### Output
+![Screenshot 2023-05-12 173411](https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio/assets/54370274/0626deae-5f83-40a6-89fb-0fff0f9bab8a)
+
+### AI Studio Project Page
+https://aistudio.baidu.com/aistudio/projectdetail/6157023
+
+### Camenduru's AI Studio Projects
+https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010
+
 ### Tutorial
 - Please add your lora model in `work/lora` folder if your lora file name `epi_noiseoffset2.safetensors` your trigger token is `<lora:epi_noiseoffset2:1.0>`
 - Please add your textual inversion model in `work/textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
@@ -39,7 +48,3 @@ Thansk to ArtGAN ❤ for the Gradio UI <br />
 Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model <br />
 Thansk to epinikion ❤ for the epinoiseoffset LoRA model <br />
 Thansk to SDKoh ❤ for the daisy-ridley-embedding Textual Inversion model <br />
-
-### Output
-![Screenshot 2023-05-12 173411](https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio/assets/54370274/0626deae-5f83-40a6-89fb-0fff0f9bab8a)
-
