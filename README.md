@@ -3,7 +3,7 @@
 🔥 Please join our discord server [https://discord.gg/k5BwmmvJJU](https://discord.gg/k5BwmmvJJU) <br />
 
 ### Output
-![Screenshot 2023-05-12 173411](https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio/assets/54370274/0626deae-5f83-40a6-89fb-0fff0f9bab8a)
+![webui](https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio/assets/54370274/0626deae-5f83-40a6-89fb-0fff0f9bab8a)
 
 ### AI Studio Project Page
 [https://aistudio.baidu.com/aistudio/projectdetail/6157023](https://aistudio.baidu.com/aistudio/projectdetail/6157023)
