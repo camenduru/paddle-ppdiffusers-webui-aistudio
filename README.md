@@ -17,17 +17,17 @@ Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model <br />
 Thansk to epinikion ❤ for the epinoiseoffset LoRA model <br />
 Thansk to SDKoh ❤ for the daisy-ridley-embedding Textual Inversion model <br />
 
-#### Tutorial
+### Tutorial
 - Please add your lora model in `work/lora` folder if your lora file name `epi_noiseoffset2.safetensors` your trigger token is `<lora:epi_noiseoffset2:1.0>`
 - Please add your textual inversion model in `work/textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
 
-#### Installed positive LoRAs
+### Installed positive LoRAs
 - \<lora:epi_noiseoffset2:1.0\> (Thansk to epinikion ❤)
 
-#### Installed positive embeds
+### Installed positive embeds
 - koh_daisyridley (Thansk to SDKoh ❤)
 
-#### Installed negative embeds
+### Installed negative embeds
 - bad_prompt_version2 (Thanks to Nerfgun3 ❤)
 - bad-artist (Thanks to NiXXerHATTER59 ❤)
 - bad-artist-anime (Thanks to NiXXerHATTER59 ❤)
