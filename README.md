@@ -15,6 +15,9 @@ https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010
 - Please add your lora model in `work/lora` folder if your lora file name `epi_noiseoffset2.safetensors` your trigger token is `<lora:epi_noiseoffset2:1.0>`
 - Please add your textual inversion model in `work/textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
 
+### Installed Model
+Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model <br />
+
 ### Installed positive LoRAs
 - \<lora:epi_noiseoffset2:1.0\> (Thansk to epinikion ❤)
 
@@ -40,11 +43,7 @@ https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI/tree/main
 ### Custom Pipeline
 https://github.com/PaddlePaddle/PaddleNLP/blob/develop/ppdiffusers/examples/community/webui_stable_diffusion.py <br />
 
+### Special Thanks
 Thansk to PaddlePaddle ppdiffusers Team ❤ <br />
 Thansk to JunnYu ❤ for the webui_stable_diffusion custom ppdiffusers pipeline <br />
 Thansk to ArtGAN ❤ for the Gradio UI <br />
-
-### Model
-Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model <br />
-Thansk to epinikion ❤ for the epinoiseoffset LoRA model <br />
-Thansk to SDKoh ❤ for the daisy-ridley-embedding Textual Inversion model <br />
