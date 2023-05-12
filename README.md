@@ -45,5 +45,5 @@ https://github.com/PaddlePaddle/PaddleNLP/blob/develop/ppdiffusers/examples/comm
 
 #### Special Thanks
 Thanks to PaddlePaddle Team ❤ for the ppdiffusers <br />
-Thanks to JunnYu ❤ for the `webui_stable_diffusion` for the custom ppdiffusers pipeline <br />
+Thanks to JunnYu ❤ for the `webui_stable_diffusion` custom ppdiffusers pipeline <br />
 Thanks to ArtGAN ❤ for the Gradio UI <br />
