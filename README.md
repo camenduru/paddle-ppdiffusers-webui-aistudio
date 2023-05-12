@@ -6,10 +6,10 @@
 ![Screenshot 2023-05-12 173411](https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio/assets/54370274/0626deae-5f83-40a6-89fb-0fff0f9bab8a)
 
 ### AI Studio Project Page
-https://aistudio.baidu.com/aistudio/projectdetail/6157023
+[https://aistudio.baidu.com/aistudio/projectdetail/6157023](https://aistudio.baidu.com/aistudio/projectdetail/6157023)
 
 ### Camenduru's AI Studio Projects
-https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010
+[https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010)
 
 ### Tutorial
 - Please add your lora model in `work/lora` folder if your lora file name `epi_noiseoffset2.safetensors` your trigger token is `<lora:epi_noiseoffset2:1.0>`
