@@ -36,7 +36,7 @@ Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model <br />
 - verybadimagenegative_v1.3 (Thanks to yunleme ❤)
 
 #### Main Repo
-https://github.com/camenduru/Stable-Diffusion-ControlNet-WebUI-hf/tree/dev <br />
+https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 https://github.com/PaddlePaddle/PaddleNLP/tree/develop/ppdiffusers <br />
 https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI/tree/main <br />
 
