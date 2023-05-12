@@ -39,3 +39,7 @@ Thansk to ArtGAN ❤ for the Gradio UI <br />
 Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model <br />
 Thansk to epinikion ❤ for the epinoiseoffset LoRA model <br />
 Thansk to SDKoh ❤ for the daisy-ridley-embedding Textual Inversion model <br />
+
+### Output
+![Screenshot 2023-05-12 173411](https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio/assets/54370274/0626deae-5f83-40a6-89fb-0fff0f9bab8a)
+
