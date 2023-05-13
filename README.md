@@ -20,31 +20,31 @@ https://aistudio.baidu.com/serving/app/2455/
 - Please add your textual inversion model in `work/textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
 
 #### Installed Model
-Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model <br />
+Thanks to TASUKU2023 ❤ for the Chilloutmix Stable Diffusion model (https://civitai.com/models/6424/chilloutmix) <br />
 
 #### Installed positive LoRAs
-- \<lora:epi_noiseoffset2:1.0\> (Thanks to epinikion ❤)
+- \<lora:epi_noiseoffset2:1.0\> (Thanks to epinikion ❤ https://civitai.com/models/13941/epinoiseoffset)
 
 #### Installed positive embeds
-- koh_daisyridley (Thanks to SDKoh ❤)
+- koh_daisyridley (Thanks to SDKoh ❤ https://civitai.com/models/21131/daisy-ridley-embedding)
 
 #### Installed negative embeds
-- bad_prompt_version2 (Thanks to Nerfgun3 ❤)
+- bad_prompt_version2 (Thanks to Nerfgun3 ❤ https://huggingface.co/datasets/Nerfgun3/bad_prompt)
 - bad-artist (Thanks to NiXXerHATTER59 ❤)
 - bad-artist-anime (Thanks to NiXXerHATTER59 ❤)
-- bad-hands-5 (Thanks to yesyeahvh ❤)
-- bad-image-v2-39000 (Thanks to Xynon ❤)
-- EasyNegative (Thanks to gsdf ❤)
-- EasyNegativeV2 (Thanks to gsdf ❤)
-- ng_deepnegative_v1_75t (Thanks to FapMagi ❤)
-- verybadimagenegative_v1.3 (Thanks to yunleme ❤)
+- bad-hands-5 (Thanks to yesyeahvh ❤ https://huggingface.co/yesyeahvh/bad-hands-5)
+- bad-image-v2-39000 (Thanks to Xynon ❤ https://huggingface.co/Xynon/models)
+- EasyNegative (Thanks to gsdf ❤ https://huggingface.co/datasets/gsdf/EasyNegative)
+- EasyNegativeV2 (Thanks to gsdf ❤ https://huggingface.co/datasets/gsdf/EasyNegative)
+- ng_deepnegative_v1_75t (Thanks to FapMagi ❤ https://civitai.com/models/4629/deep-negative-v1x)
+- verybadimagenegative_v1.3 (Thanks to yunleme ❤ https://civitai.com/models/11772/verybadimagenegative)
 
 #### Main Repo
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 https://github.com/PaddlePaddle/PaddleNLP/tree/develop/ppdiffusers <br />
 https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI/tree/main <br />
 
-#### Custom Pipeline
+#### Community Pipeline
 https://github.com/PaddlePaddle/PaddleNLP/blob/develop/ppdiffusers/examples/community/webui_stable_diffusion.py <br />
 
 #### Special Thanks
