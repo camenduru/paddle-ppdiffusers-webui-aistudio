@@ -10,8 +10,8 @@
 
 #### AI Studio Project Page - Direct Gradio UI Link
 🚨 This link will change when I update the project. If I update the project, I will update this link <br />
-https://aistudio.baidu.com/serving/app/2455/
-https://aistudio.baidu.com/serving/app/2434/
+https://aistudio.baidu.com/serving/app/2455/ <br />
+https://aistudio.baidu.com/serving/app/2434/ <br />
 
 #### Camenduru's AI Studio Projects
 [https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010)
