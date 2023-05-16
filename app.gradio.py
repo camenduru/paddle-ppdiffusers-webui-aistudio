@@ -201,7 +201,7 @@ def diffusion_app():
                     StableDiffusionText2ImageGenerator.app()
         gr.Markdown(camenduru)
     app.queue(concurrency_count=1)
-    app.launch(debug=True, enable_queue=True)
+    app.launch(debug=True, enable_queue=True, share=True)
 
 if __name__ == "__main__":
     diffusion_app()
