@@ -3,7 +3,7 @@ import paddle, os
 from ppdiffusers import DiffusionPipeline
 
 stable_model_list = [
-    "paddle/BraV5", "paddle/dark-sushi-25d",
+    "username/modelname",
 ]
 
 supported_scheduler = [
