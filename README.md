@@ -1,5 +1,4 @@
-🐣 Please follow me for new updates [https://github.com/camenduru](https://github.com/camenduru) <br />
-🐤 Please follow me for new updates [https://twitter.com/camenduru](https://twitter.com/camenduru) <br />
+🐣 Please follow me for new updates [https://twitter.com/camenduru](https://twitter.com/camenduru) <br />
 🔥 Please join our discord server [https://discord.gg/k5BwmmvJJU](https://discord.gg/k5BwmmvJJU) <br />
 
 #### Output
