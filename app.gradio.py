@@ -3,7 +3,7 @@ import paddle, os
 from ppdiffusers import DiffusionPipeline
 
 stable_model_list = [
-    "TASUKU2023/Chilloutmix",
+    "paddle/BraV5", "paddle/dark-sushi-25d",
 ]
 
 supported_scheduler = [
@@ -33,7 +33,7 @@ class StableDiffusionText2ImageGenerator:
     ):
         if self.pipe is None:
             self.pipe = DiffusionPipeline.from_pretrained(
-                model_path, safety_checker=None, paddle_dtype=paddle.float16, custom_pipeline="webui_stable_diffusion.py"
+                model_path, from_hf_hub=True, safety_checker=None, paddle_dtype=paddle.float16, custom_pipeline="webui_stable_diffusion.py"
             )
             self.pipe.LORA_DIR=os.path.join(os.getcwd(), "lora")
             self.pipe.TI_DIR=os.path.join(os.getcwd(), "textual_inversion")
