@@ -178,18 +178,19 @@ camenduru = """
     - Please add your textual inversion model in `work/textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
     #### Installed positive LoRAs
     - \<lora:epi_noiseoffset2:1.0\>
+    - \<lora:Japanese-doll-likeness:1.0\>
+    - \<lora:Korean-doll-likeness:1.0\>
+    - \<lora:Taiwan-doll-likeness:1.0\>
     #### Installed positive embeds
     - koh_daisyridley
     #### Installed negative embeds
-    - bad_prompt_version2
-    - bad-artist
-    - bad-artist-anime
-    - bad-hands-5
-    - bad-image-v2-39000
-    - EasyNegative
-    - EasyNegativeV2
-    - ng_deepnegative_v1_75t
     - verybadimagenegative_v1.3
+    - bad_prompt_version2
+    - ng_deepnegative_v1_75t
+    - bad-artist-anime
+    - bad-image-v2-39000
+    - bad-hands-5
+    - bad-artist
     """
 
 def diffusion_app():
