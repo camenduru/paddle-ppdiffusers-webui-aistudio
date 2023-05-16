@@ -82,7 +82,7 @@ class StableDiffusionText2ImageGenerator:
                     text2image_prompt = gr.Textbox(
                         lines=1,
                         placeholder="Prompt",
-                        value="cute koh_daisyridley <lora:epi_noiseoffset2:1.0>",
+                        value="koh_daisyridley <lora:epi_noiseoffset2:1.0>",
                         show_label=False,
                     )
                     text2image_negative_prompt = gr.Textbox(
