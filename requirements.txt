@@ -1,10 +1,10 @@
-paddlepaddle-gpu==0.0.0.post117 -f https://www.paddlepaddle.org.cn/whl/linux/gpu/develop.html
-paddlenlp
-safetensors
-ppdiffusers -f https://www.paddlepaddle.org.cn/whl/paddlenlp.html --pre
-omegaconf
-fastcore
-einops
+paddlepaddle-gpu==2.5.0rc0
+paddlenlp==2.5.2
+ppdiffusers==0.14.1
+safetensors==0.3.1
+omegaconf==2.3.0
+fastcore==1.5.29
+einops==0.6.1
 gradio==3.19.1
-numpy==1.21.6
-lark
+numpy==1.22.4
+lark==1.1.5
