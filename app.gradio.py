@@ -174,10 +174,10 @@ class StableDiffusionText2ImageGenerator:
 camenduru = """
     🐣 Please follow me for new updates [https://github.com/camenduru](https://github.com/camenduru) <br />
     #### Tutorial
-    - Please add your lora model in `work/lora` folder if your lora file name `epi_noiseoffset2.safetensors` your trigger token is `<lora:epi_noiseoffset2:1.0>`
-    - Please add your textual inversion model in `work/textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
+    - Please add your lora model in `lora` folder if your lora file name `epiNoiseoffset_v2.safetensors` your trigger token is `<lora:epiNoiseoffset_v2:1.0>`
+    - Please add your textual inversion model in `textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
     #### Installed positive LoRAs
-    - \<lora:epi_noiseoffset2:1.0\>
+    - \<lora:epiNoiseoffset_v2:1.0\>
     - \<lora:Japanese-doll-likeness:1.0\>
     - \<lora:Korean-doll-likeness:1.0\>
     - \<lora:Taiwan-doll-likeness:1.0\>
