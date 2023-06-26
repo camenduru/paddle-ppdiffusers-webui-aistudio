@@ -1,5 +1,6 @@
-🐣 Please follow me for new updates [https://twitter.com/camenduru](https://twitter.com/camenduru) <br />
-🔥 Please join our discord server [https://discord.gg/k5BwmmvJJU](https://discord.gg/k5BwmmvJJU) <br />
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
+🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 #### Output
 ![webui](https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio/assets/54370274/bff77c3c-6e76-4b6e-a919-67a43f209855)
