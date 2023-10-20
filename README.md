@@ -13,7 +13,7 @@
 https://aistudio.baidu.com/serving/app/2455/ <br />
 https://aistudio.baidu.com/serving/app/2434/ <br />
 
-#### Camenduru's AI Studio Projects
+#### AI Studio Projects
 [https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010)
 
 #### Tutorial
@@ -46,7 +46,7 @@ https://github.com/PaddlePaddle/PaddleNLP/tree/develop/ppdiffusers <br />
 https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI/tree/main <br />
 
 #### Community Pipeline
-https://github.com/PaddlePaddle/PaddleNLP/blob/develop/ppdiffusers/examples/community/webui_stable_diffusion.py <br />
+https://github.com/PaddlePaddle/PaddleMIX/blob/develop/ppdiffusers/examples/community/webui_stable_diffusion.py <br />
 
 #### Special Thanks
 Thanks to PaddlePaddle Team ❤ for the ppdiffusers <br />
